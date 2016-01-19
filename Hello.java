@@ -1,5 +1,5 @@
 //for command line git tutorial
-//GitHub modified
+//GitHub modification
 
 public class Hello{
 	public static void main(String[] args){
